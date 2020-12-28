@@ -1,0 +1,47 @@
+[0213/160927.751:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0213/160927.758:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0213/160927.758:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0213/160927.760:ERROR:exception_snapshot_win.cc(98)] thread ID 21532 not found in process
+[0213/160927.797:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0213/160927.797:ERROR:exception_snapshot_win.cc(98)] thread ID 20692 not found in process
+[0214/121042.016:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0214/121042.020:ERROR:exception_snapshot_win.cc(98)] thread ID 9800 not found in process
+[0214/121042.054:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0214/121042.054:ERROR:exception_snapshot_win.cc(98)] thread ID 5512 not found in process
+[0217/114200.348:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0217/114200.347:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0217/114200.353:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0217/114200.353:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0217/114200.353:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0217/114200.354:ERROR:exception_snapshot_win.cc(98)] thread ID 22736 not found in process
+[0217/114200.354:ERROR:exception_snapshot_win.cc(98)] thread ID 18584 not found in process
+[1207/153909.856:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1207/160118.286:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1207/160118.286:ERROR:exception_snapshot_win.cc(99)] thread ID 9008 not found in process
+[1207/160118.335:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1207/160118.335:ERROR:exception_snapshot_win.cc(99)] thread ID 14576 not found in process
+[1207/234152.176:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1207/235003.185:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1207/235003.196:ERROR:exception_snapshot_win.cc(99)] thread ID 16016 not found in process
+[1207/235003.227:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1207/235003.227:ERROR:exception_snapshot_win.cc(99)] thread ID 14836 not found in process
+[1208/001501.908:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1208/003315.119:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1208/003315.127:ERROR:exception_snapshot_win.cc(99)] thread ID 9036 not found in process
+[1208/003315.148:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1208/003315.148:ERROR:exception_snapshot_win.cc(99)] thread ID 15224 not found in process
+[1208/004715.875:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1208/010031.933:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1208/010513.164:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1208/010513.164:ERROR:exception_snapshot_win.cc(99)] thread ID 768 not found in process
+[1208/010513.193:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1208/010513.193:ERROR:exception_snapshot_win.cc(99)] thread ID 17500 not found in process
+[1208/180502.626:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1208/180556.213:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1208/180556.215:ERROR:exception_snapshot_win.cc(99)] thread ID 5984 not found in process
+[1208/180556.256:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1208/180556.256:ERROR:exception_snapshot_win.cc(99)] thread ID 17256 not found in process
+[1208/181608.954:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1208/181608.955:ERROR:exception_snapshot_win.cc(99)] thread ID 5100 not found in process
+[1208/181608.981:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1208/181608.982:ERROR:exception_snapshot_win.cc(99)] thread ID 15084 not found in process

@@ -1,0 +1,13 @@
+---
+
+default: --profile pretty -p 12_1_27_BD -p chrome -p html 
+
+pretty: --format pretty
+ci: --format progress
+12_1_27_BD: AMBIENTE=12_1_27_BD
+producao: AMBIENTE=producao
+chrome: BROWSER=chrome
+headless: BROWSER=headless
+firefox: BROWSER=firefox
+html: --format html --out=reports/relatorio.html
+json: --format json --out=reports/relatorio.json

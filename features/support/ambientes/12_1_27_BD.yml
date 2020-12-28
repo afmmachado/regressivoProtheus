@@ -1,0 +1,17 @@
+url_padrao: 'http://192.168.6.59:9090/'
+user: 'alan.machado'
+senha: '654321'
+
+base: 'TOTVS12_PROD_BD'
+
+#ambientes
+amb_financeiro: '06'
+amb_compras: '02'
+amb_faturamento: '05'
+
+
+#dados formulário cadastro de produtos
+cod_material: 'TESTE777'
+desc_material: 'PRODUTO TESTE'
+
+
